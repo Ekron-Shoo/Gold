@@ -138,7 +138,7 @@ function draw(){
     button1.hide();
 
     var str = "Click To Continue";
-    var result = str.link("https://www.w3schools.com");
+    var result = str.link("https://ekron-shoo.github.io/Gold/4/");
     console.log(result);
     document.getElementById("demo").innerHTML = result;
 

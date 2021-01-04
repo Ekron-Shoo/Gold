@@ -60,7 +60,7 @@ function draw(){
     button4.show();
 
     var str = "Start To Kill";
-    var result = str.link("https://ekron-shoo.github.io/Gold/2/");
+    var result = str.link("https://ekron-shoo.github.io/Gold/2/fps");
     console.log(result);
     document.getElementById("demo").innerHTML = result;
 
@@ -74,7 +74,7 @@ function draw(){
     button4.hide();
     
     var str = "Start To Kill";
-    var result = str.link("https://ekron-shoo.github.io/Gold/2/");
+    var result = str.link("https://ekron-shoo.github.io/Gold/2/fps");
     console.log(result);
     document.getElementById("demo").innerHTML = result;
 

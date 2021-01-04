@@ -198,7 +198,7 @@ class TheScene extends Physijs.Scene {
     instructions.style.fontSize = "50px";
 
     var str = "Click To Continue";
-    var result = str.link("https://www.w3schools.com");
+    var result = str.link("https://ekron-shoo.github.io/Gold/3/");
     console.log(result);
     document.getElementById("demo").innerHTML = result;
 
